@@ -1,13 +1,11 @@
 # PhD life survey
 
-<!-- ![PhD plans](./images/PhDplans.jpg "PhD plans") -->
+<!-- ![PhD plans](./images/PhDplans.jpg "PhD plans") --> 
 <!-- ![PhDInstantaneousProperty](./images/InstantaneousProperty.png=50% "PhD instantaneous property"){: .center-image} -->
-
 <!-- <img src="./images/InstantaneousProperty.png" alt="PhDInstantaneousProperty" width="300" height="200"/> -->
-<img style="display: block; margin-left: auto; margin-right: auto;" src="./images/InstantaneousProperty.png" alt="PhDInstantaneousProperty" width=50%/>
 
 <div style="text-align: center;">
-<img style="display: block; margin-left: auto; margin-right: auto;" src="./images/InstantaneousProperty.png" alt="PhDInstantaneousProperty" width=50% />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="./images/InstantaneousProperty.png" alt="PhDInstantaneousProperty" width=60% >
 </div>
 
 ## hello visitor
