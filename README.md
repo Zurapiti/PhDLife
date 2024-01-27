@@ -5,8 +5,7 @@
 
 ## hello visitor
 
-Here I will publish survey results from the "PhD life" survey as people reply to the survey and I process them. 
-I will update results as a significant number (~ 50) of new responses are added to the survey.
+Here I will publish survey results from the [PhD life survey](https://forms.gle/4NVZAtoYY6EhQbnC8) as people reply to the survey and I process them. I will update results as sufficient new responses are added to the survey.
 
 Did a PhD? Have not taken the survey yet? Yo can do it here: [PhD life survey](https://forms.gle/4NVZAtoYY6EhQbnC8)
 
