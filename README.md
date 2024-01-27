@@ -1,6 +1,6 @@
 # PhD life survey
 
-[comment]: ![PhD plans](./images/PhDplans.jpg "PhD plans") 
+[comment]: # ![PhD plans](./images/PhDplans.jpg "PhD plans") 
 ![PhDInstantaneousProperty](./images/InstantaneousProperty.png "PhD instantaneous property")
 
 ## hello visitor
