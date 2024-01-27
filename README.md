@@ -1,6 +1,6 @@
 # PhD life survey
 
-![Alt PhDplans](./images/PhDplans.jpg "PhD plans")
+![Alt PhD_instantaneous_property](./images/instantaneousProperty.png "PhD instantaneous property")
 
 ## hello visitor
 
