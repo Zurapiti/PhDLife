@@ -4,9 +4,7 @@
 <!-- ![PhDInstantaneousProperty](./images/InstantaneousProperty.png=50% "PhD instantaneous property"){: .center-image} -->
 <!-- <img src="./images/InstantaneousProperty.png" alt="PhDInstantaneousProperty" width="300" height="200"/> -->
 
-<div style="text-align: center;">
 <img style="display: block; margin-left: auto; margin-right: auto;" src="./images/InstantaneousProperty.png" alt="PhDInstantaneousProperty" width=60% >
-</div>
 
 ## hello visitor
 
