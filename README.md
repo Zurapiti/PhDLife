@@ -1,6 +1,7 @@
 # PhD life survey
 
 !PhDplans
+![Alt text](./images/PhDplans.jpg "PhD plans")
 
 ## hello visitor
 
