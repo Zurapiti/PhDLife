@@ -4,7 +4,7 @@
 ![PhDInstantaneousProperty](./images/InstantaneousProperty.png "PhD instantaneous property")
 
 <!-- <img src="./images/InstantaneousProperty.png" alt="PhDInstantaneousProperty" width="300" height="200"/> -->
-<img src="./images/InstantaneousProperty.png" alt="PhDInstantaneousProperty" width=50%/>
+<img src="./images/InstantaneousProperty.png" alt="PhDInstantaneousProperty" width=50% style="text-align: center;" />
 
 
 ## hello visitor
