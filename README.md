@@ -1,5 +1,5 @@
 # PhD life survey
-<img src="./images/InstantaneousProperty.png" alt="PhD was it worth it" width=60% class="center" />
+<img src="./images/InstantaneousProperty.png" alt="PhD was it worth it" width=60% />
 
 ## hello visitor
 
