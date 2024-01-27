@@ -1,6 +1,6 @@
 # PhD life survey
 
-<img src="./images/InstantaneousProperty.png"/>
+<img src="./images/InstantaneousProperty.png" alt="was it worth it" width=65% />
 
 ## hello visitor
 
