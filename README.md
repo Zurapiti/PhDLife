@@ -3,7 +3,8 @@
 <!-- ![PhD plans](./images/PhDplans.jpg "PhD plans") -->
 ![PhDInstantaneousProperty](./images/InstantaneousProperty.png "PhD instantaneous property")
 
-<img src="./images/InstantaneousProperty.png" alt="PhDInstantaneousProperty" width="300" height="200"/>
+<!-- <img src="./images/InstantaneousProperty.png" alt="PhDInstantaneousProperty" width="300" height="200"/> -->
+<img src="./images/InstantaneousProperty.png" alt="PhDInstantaneousProperty" width=50%/>
 
 
 ## hello visitor
