@@ -3,7 +3,7 @@
 
 ## hello visitor
 
-Here I will publish survey results from the _PhD life survey_, I will update as people reply to the survey and I process them. 
+Here I will publish and update the results from the _PhD life survey_. 
 
 Did a PhD? Have not taken the survey yet? Yo can do it here: [PhD life survey](https://forms.gle/4NVZAtoYY6EhQbnC8)
 
