@@ -15,7 +15,7 @@
 </p>
 
 <div style="text-align: center;">
-  <img src="./images/InstantaneousProperty.png" alt="PhDInstantaneousProperty" width=60% />
+  <img src="./images/InstantaneousProperty.png" alt="centered image" width=60% />
 </div>
 
 ## hello visitor
