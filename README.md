@@ -8,7 +8,7 @@
 
 
 <p class="aligncenter">
-  <img src="./images/InstantaneousProperty.png" alt="PhDInstantaneousProperty" width=60% />
+  <img src="./images/InstantaneousProperty.png" alt="centered image" width=60% />
 </p>
 
 <div style="text-align: center;">
