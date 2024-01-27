@@ -7,8 +7,11 @@
 <!--  this didn't work: <img style="display: block; margin-left: auto; margin-right: auto;" src="./images/InstantaneousProperty.png" alt="PhDInstantaneousProperty" width=60% > -->
 
 
-<img align="middle" src="./images/InstantaneousProperty.png" alt="PhDInstantaneousProperty" width=60%>
 
+
+<div style="text-align: center;">
+  <img src="./images/InstantaneousProperty.png" alt="PhDInstantaneousProperty" width=60%>
+</div>
 
 ## hello visitor
 
