@@ -6,9 +6,7 @@
 
 <!--  this didn't work: <img style="display: block; margin-left: auto; margin-right: auto;" src="./images/InstantaneousProperty.png" alt="PhDInstantaneousProperty" width=60% > -->
 
-<div style="text-align: center;">
-    <img class="marginauto" src="./images/InstantaneousProperty.png" alt="centered image" width=60% />
-</div>
+<img src="./images/InstantaneousProperty.png" alt="PhD was it worth it" width=60% align="right" />
 
 <p class="aligncenter">
   <img src="./images/InstantaneousProperty.png" alt="centered image" width=60% />
@@ -17,6 +15,8 @@
 <div style="text-align: center;">
   <img src="./images/InstantaneousProperty.png" alt="centered image" width=60% />
 </div>
+
+
 
 ## hello visitor
 
