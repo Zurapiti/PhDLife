@@ -1,23 +1,5 @@
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
 # PhD life survey
-
 <img src="./images/InstantaneousProperty.png" alt="PhD was it worth it" width=60% class="center" />
-
-<p class="aligncenter">
-  <img src="./images/InstantaneousProperty.png" alt="centered image" width=60% />
-</p>
-
-<div style="text-align: center;">
-  <img src="./images/InstantaneousProperty.png" alt="centered image" width=60% />
-</div>
-
-
 
 ## hello visitor
 
