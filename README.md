@@ -15,9 +15,11 @@ Jazz (Yazmín Zurápiti)
 -------------------------------------------------------------------------------------------------------------------
 
 
-so far; 10 replies 
+update 2024-02-04; 
 
-countries of enrollment:  Japan, Germany, United Kingdom (2), Sweden, Korea, United States of America, Sweden, France, Czech Republic.
+number of replies: 10 
+
+countries of enrollment: Japan, Germany, United Kingdom (2), Sweden, Korea, United States of America, Sweden, France, Czech Republic.
 
 <img src="./images/Screenshot_2024-02-04_191026.png" alt="how much work is a PhD" />
 
