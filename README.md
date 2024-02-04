@@ -17,6 +17,6 @@ Jazz (Yazmín Zurápiti)
 
 so far; 10 replies 
 
-countries of enrollment:  Japan, Germany, United Kingdom, Sweden, Korea, United States of America, Sweden, France, United Kingdom, Czech Republic.
+countries of enrollment:  Japan, Germany, United Kingdom (2), Sweden, Korea, United States of America, Sweden, France, Czech Republic.
 
 
