@@ -19,4 +19,11 @@ so far; 10 replies
 
 countries of enrollment:  Japan, Germany, United Kingdom (2), Sweden, Korea, United States of America, Sweden, France, Czech Republic.
 
+<img src="./images/Screenshot_2024-02-04_191026.png" alt="how much work is a PhD" />
+
+<img src="./images/Screenshot_2024-02-04_191157.png" alt="would do a PhD again" />
+
+<img src="./images/Screenshot_2024-02-04_191253.png" alt="recommend doing a PhD" />
+
+
 
