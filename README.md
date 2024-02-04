@@ -22,10 +22,14 @@ number of replies: 10
 
 countries of enrollment: Japan, Germany, United Kingdom (2), Sweden, Korea, United States of America, Sweden, France, Czech Republic.
 
+### this is about current situation of people
+<img src="./images/Screenshot_2024-02-04_192803.png" alt="context" />
+
+### this is about how much work was/is being put into it
 <img src="./images/Screenshot_2024-02-04_191026.png" alt="how much work is a PhD" />
 
+### this is thier opinion on doing it again and recommendation it to others
 <img src="./images/Screenshot_2024-02-04_191157.png" alt="would do a PhD again" />
-
 <img src="./images/Screenshot_2024-02-04_191253.png" alt="recommend doing a PhD" />
 
 
