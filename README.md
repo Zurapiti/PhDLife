@@ -10,3 +10,13 @@ Did a PhD? Have not taken the survey yet? Yo can do it here: [PhD life survey](h
 
 Thank you for your attention, all best, 
 Jazz (Yazmín Zurápiti)
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+so far; 10 replies 
+
+countries of enrollment:  Japan, Germany, United Kingdom, Sweden, Korea, United States of America, Sweden, France, United Kingdom, Czech Republic.
+
+
